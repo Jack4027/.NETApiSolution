@@ -1,0 +1,36 @@
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/bin/Debug/net6.0/OhpenApi.Entities.deps.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/bin/Debug/net6.0/OhpenApi.Entities.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/bin/Debug/net6.0/OhpenApi.Entities.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.csproj.AssemblyReference.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.AssemblyInfoInputs.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.AssemblyInfo.cs
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.csproj.CoreCompileInputs.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/obj/Debug/net6.0/refint/OhpenApi.Entities.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Entities/obj/Debug/net6.0/ref/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/bin/Debug/net6.0/OhpenApi.Entities.deps.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/bin/Debug/net6.0/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/bin/Debug/net6.0/OhpenApi.Entities.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.csproj.AssemblyReference.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.AssemblyInfoInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.AssemblyInfo.cs
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.csproj.CoreCompileInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/obj/Debug/net6.0/refint/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Entities/obj/Debug/net6.0/ref/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/bin/Debug/net6.0/OhpenApi.Entities.deps.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/bin/Debug/net6.0/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/bin/Debug/net6.0/OhpenApi.Entities.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.csproj.AssemblyReference.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.AssemblyInfoInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.AssemblyInfo.cs
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.csproj.CoreCompileInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/obj/Debug/net6.0/refint/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/obj/Debug/net6.0/OhpenApi.Entities.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Entities/obj/Debug/net6.0/ref/OhpenApi.Entities.dll

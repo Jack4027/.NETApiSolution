@@ -1,0 +1,45 @@
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Contracts.deps.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Contracts.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Contracts.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.csproj.AssemblyReference.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.AssemblyInfoInputs.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.AssemblyInfo.cs
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.csproj.CoreCompileInputs.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/obj/Debug/net6.0/refint/OhpenApi.Contracts.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/obj/Debug/net6.0/ref/OhpenApi.Contracts.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Entities.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Entities.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.csproj.CopyComplete
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Contracts.deps.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Contracts.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Entities.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.csproj.AssemblyReference.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.AssemblyInfoInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.AssemblyInfo.cs
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.csproj.CoreCompileInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.csproj.CopyComplete
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/obj/Debug/net6.0/refint/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Contracts/obj/Debug/net6.0/ref/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Contracts.deps.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Contracts.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/bin/Debug/net6.0/OhpenApi.Entities.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.csproj.AssemblyReference.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.AssemblyInfoInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.AssemblyInfo.cs
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.csproj.CoreCompileInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.csproj.CopyComplete
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/obj/Debug/net6.0/refint/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/obj/Debug/net6.0/OhpenApi.Contracts.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Contracts/obj/Debug/net6.0/ref/OhpenApi.Contracts.dll

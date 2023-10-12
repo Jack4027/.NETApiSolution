@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OhpenApi.Contracts/1.0.0": {
+        "dependencies": {
+          "OhpenApi.Entities": "1.0.0"
+        },
+        "runtime": {
+          "OhpenApi.Contracts.dll": {}
+        }
+      },
+      "OhpenApi.Entities/1.0.0": {
+        "runtime": {
+          "OhpenApi.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OhpenApi.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OhpenApi.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

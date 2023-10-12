@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.906432748538012" branch-rate="0.962962962962963" lines-covered="310" lines-valid="342" branches-covered="52" branches-valid="54" complexity="106" version="0" timestamp="1696867215">
+  <sources>
+    <source>C:\Users\Jack.Boston\</source>
+  </sources>
+  <packages>
+    <package name="OhpenApi" line-rate="0.864516129032258" branch-rate="0.96" complexity="57">
+      <classes>
+        <class name="OhpenApi.Controllers.JobController" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi\Controllers\JobController.cs" line-rate="1" branch-rate="1" complexity="13">
+          <methods>
+            <method name="PostTransactions" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="39" hits="2" branch="false" />
+                <line number="40" hits="2" branch="false" />
+                <line number="43" hits="2" branch="false" />
+                <line number="46" hits="2" branch="false" />
+                <line number="49" hits="2" branch="false" />
+                <line number="52" hits="2" branch="false" />
+                <line number="55" hits="2" branch="true" condition-coverage="100% (4/4)" />
+                <line number="56" hits="1" branch="false" />
+                <line number="57" hits="1" branch="false" />
+                <line number="60" hits="1" branch="false" />
+                <line number="61" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobResponse" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="74" hits="2" branch="false" />
+                <line number="76" hits="2" branch="false" />
+                <line number="79" hits="2" branch="true" condition-coverage="100% (4/4)" />
+                <line number="80" hits="1" branch="false" />
+                <line number="81" hits="1" branch="false" />
+                <line number="83" hits="1" branch="false" />
+                <line number="84" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobLogs" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="98" hits="2" branch="false" />
+                <line number="100" hits="2" branch="false" />
+                <line number="103" hits="2" branch="true" condition-coverage="100% (4/4)" />
+                <line number="104" hits="1" branch="false" />
+                <line number="105" hits="1" branch="false" />
+                <line number="107" hits="1" branch="false" />
+                <line number="108" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="6" branch="false" />
+                <line number="20" hits="6" branch="false" />
+                <line number="21" hits="6" branch="false" />
+                <line number="22" hits="6" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="19" hits="6" branch="false" />
+            <line number="20" hits="6" branch="false" />
+            <line number="21" hits="6" branch="false" />
+            <line number="22" hits="6" branch="false" />
+            <line number="39" hits="2" branch="false" />
+            <line number="40" hits="2" branch="false" />
+            <line number="43" hits="2" branch="false" />
+            <line number="46" hits="2" branch="false" />
+            <line number="49" hits="2" branch="false" />
+            <line number="52" hits="2" branch="false" />
+            <line number="55" hits="2" branch="true" condition-coverage="100% (4/4)" />
+            <line number="56" hits="1" branch="false" />
+            <line number="57" hits="1" branch="false" />
+            <line number="60" hits="1" branch="false" />
+            <line number="61" hits="2" branch="false" />
+            <line number="74" hits="2" branch="false" />
+            <line number="76" hits="2" branch="false" />
+            <line number="79" hits="2" branch="true" condition-coverage="100% (4/4)" />
+            <line number="80" hits="1" branch="false" />
+            <line number="81" hits="1" branch="false" />
+            <line number="83" hits="1" branch="false" />
+            <line number="84" hits="2" branch="false" />
+            <line number="98" hits="2" branch="false" />
+            <line number="100" hits="2" branch="false" />
+            <line number="103" hits="2" branch="true" condition-coverage="100% (4/4)" />
+            <line number="104" hits="1" branch="false" />
+            <line number="105" hits="1" branch="false" />
+            <line number="107" hits="1" branch="false" />
+            <line number="108" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.ServiceErrors.Errors" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi\ServiceErrors\Errors.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="JobNotFound" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="10" branch="false" />
+              </lines>
+            </method>
+            <method name="JobTypeValidation" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="10" branch="false" />
+            <line number="14" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Services.BatchJobService" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi\Services\BatchJobService.cs" line-rate="1" branch-rate="1" complexity="6">
+          <methods>
+            <method name="ErrorCheckCustomerTransactions" signature="(...)" line-rate="1" branch-rate="1" complexity="6">
+              <lines>
+                <line number="19" hits="2" branch="false" />
+                <line number="20" hits="2" branch="false" />
+                <line number="21" hits="2" branch="false" />
+                <line number="23" hits="2" branch="false" />
+                <line number="24" hits="5" branch="true" condition-coverage="100% (2/2)" />
+                <line number="25" hits="3" branch="false" />
+                <line number="26" hits="3" branch="false" />
+                <line number="27" hits="3" branch="false" />
+                <line number="28" hits="3" branch="true" condition-coverage="100% (2/2)" />
+                <line number="30" hits="3" branch="true" condition-coverage="100% (2/2)" />
+                <line number="31" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+                <line number="36" hits="3" branch="false" />
+                <line number="37" hits="3" branch="false" />
+                <line number="38" hits="3" branch="false" />
+                <line number="39" hits="3" branch="false" />
+                <line number="41" hits="2" branch="false" />
+                <line number="42" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="19" hits="2" branch="false" />
+            <line number="20" hits="2" branch="false" />
+            <line number="21" hits="2" branch="false" />
+            <line number="23" hits="2" branch="false" />
+            <line number="24" hits="5" branch="true" condition-coverage="100% (2/2)" />
+            <line number="25" hits="3" branch="false" />
+            <line number="26" hits="3" branch="false" />
+            <line number="27" hits="3" branch="false" />
+            <line number="28" hits="3" branch="true" condition-coverage="100% (2/2)" />
+            <line number="30" hits="3" branch="true" condition-coverage="100% (2/2)" />
+            <line number="31" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="36" hits="3" branch="false" />
+            <line number="37" hits="3" branch="false" />
+            <line number="38" hits="3" branch="false" />
+            <line number="39" hits="3" branch="false" />
+            <line number="41" hits="2" branch="false" />
+            <line number="42" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Services.BulkJobService" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi\Services\BulkJobService.cs" line-rate="1" branch-rate="1" complexity="6">
+          <methods>
+            <method name="ErrorCheckCustomerTransactions" signature="(...)" line-rate="1" branch-rate="1" complexity="6">
+              <lines>
+                <line number="19" hits="3" branch="false" />
+                <line number="20" hits="3" branch="false" />
+                <line number="21" hits="19" branch="true" condition-coverage="100% (2/2)" />
+                <line number="22" hits="5" branch="false" />
+                <line number="23" hits="5" branch="false" />
+                <line number="24" hits="5" branch="true" condition-coverage="100% (2/2)" />
+                <line number="26" hits="5" branch="true" condition-coverage="100% (2/2)" />
+                <line number="27" hits="1" branch="false" />
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="31" hits="5" branch="false" />
+                <line number="32" hits="5" branch="false" />
+                <line number="33" hits="5" branch="false" />
+                <line number="35" hits="3" branch="false" />
+                <line number="36" hits="3" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="19" hits="3" branch="false" />
+            <line number="20" hits="3" branch="false" />
+            <line number="21" hits="19" branch="true" condition-coverage="100% (2/2)" />
+            <line number="22" hits="5" branch="false" />
+            <line number="23" hits="5" branch="false" />
+            <line number="24" hits="5" branch="true" condition-coverage="100% (2/2)" />
+            <line number="26" hits="5" branch="true" condition-coverage="100% (2/2)" />
+            <line number="27" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="31" hits="5" branch="false" />
+            <line number="32" hits="5" branch="false" />
+            <line number="33" hits="5" branch="false" />
+            <line number="35" hits="3" branch="false" />
+            <line number="36" hits="3" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Services.JobServiceHelperMethods" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi\Services\JobServiceHelperMethods.cs" line-rate="0.823529411764706" branch-rate="0.875" complexity="16">
+          <methods>
+            <method name="AddErrorDescription" signature="(...)" line-rate="0.785714285714286" branch-rate="0.833333333333333" complexity="12">
+              <lines>
+                <line number="18" hits="10" branch="false" />
+                <line number="19" hits="10" branch="false" />
+                <line number="22" hits="55" branch="true" condition-coverage="100% (2/2)" />
+                <line number="23" hits="3" branch="false" />
+                <line number="24" hits="3" branch="false" />
+                <line number="25" hits="3" branch="false" />
+                <line number="27" hits="10" branch="true" condition-coverage="100% (2/2)" />
+                <line number="28" hits="3" branch="false" />
+                <line number="29" hits="3" branch="false" />
+                <line number="30" hits="3" branch="false" />
+                <line number="33" hits="77" branch="true" condition-coverage="50% (1/2)" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="38" hits="10" branch="true" condition-coverage="100% (2/2)" />
+                <line number="39" hits="3" branch="false" />
+                <line number="40" hits="3" branch="false" />
+                <line number="41" hits="3" branch="false" />
+                <line number="44" hits="77" branch="true" condition-coverage="50% (1/2)" />
+                <line number="45" hits="0" branch="false" />
+                <line number="46" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+                <line number="50" hits="10" branch="true" condition-coverage="100% (2/2)" />
+                <line number="51" hits="3" branch="false" />
+                <line number="52" hits="3" branch="false" />
+                <line number="53" hits="3" branch="false" />
+                <line number="55" hits="10" branch="false" />
+                <line number="56" hits="10" branch="false" />
+              </lines>
+            </method>
+            <method name="JobServicesSwitch" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="64" hits="5" branch="false" />
+                <line number="65" hits="5" branch="true" condition-coverage="100% (4/4)" />
+                <line number="68" hits="2" branch="false" />
+                <line number="70" hits="1" branch="false" />
+                <line number="72" hits="2" branch="false" />
+                <line number="74" hits="5" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="10" branch="false" />
+            <line number="19" hits="10" branch="false" />
+            <line number="22" hits="55" branch="true" condition-coverage="100% (2/2)" />
+            <line number="23" hits="3" branch="false" />
+            <line number="24" hits="3" branch="false" />
+            <line number="25" hits="3" branch="false" />
+            <line number="27" hits="10" branch="true" condition-coverage="100% (2/2)" />
+            <line number="28" hits="3" branch="false" />
+            <line number="29" hits="3" branch="false" />
+            <line number="30" hits="3" branch="false" />
+            <line number="33" hits="77" branch="true" condition-coverage="50% (1/2)" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="38" hits="10" branch="true" condition-coverage="100% (2/2)" />
+            <line number="39" hits="3" branch="false" />
+            <line number="40" hits="3" branch="false" />
+            <line number="41" hits="3" branch="false" />
+            <line number="44" hits="77" branch="true" condition-coverage="50% (1/2)" />
+            <line number="45" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="50" hits="10" branch="true" condition-coverage="100% (2/2)" />
+            <line number="51" hits="3" branch="false" />
+            <line number="52" hits="3" branch="false" />
+            <line number="53" hits="3" branch="false" />
+            <line number="55" hits="10" branch="false" />
+            <line number="56" hits="10" branch="false" />
+            <line number="64" hits="5" branch="false" />
+            <line number="65" hits="5" branch="true" condition-coverage="100% (4/4)" />
+            <line number="68" hits="2" branch="false" />
+            <line number="70" hits="1" branch="false" />
+            <line number="72" hits="2" branch="false" />
+            <line number="74" hits="5" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenContracts.Services.BaseJobService" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi\Services\BaseJobService.cs" line-rate="1" branch-rate="1" complexity="13">
+          <methods>
+            <method name="ProcessCustomerTransactions" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="28" hits="6" branch="false" />
+                <line number="30" hits="6" branch="false" />
+                <line number="33" hits="6" branch="true" condition-coverage="100% (2/2)" />
+                <line number="34" hits="1" branch="false" />
+                <line number="35" hits="1" branch="false" />
+                <line number="38" hits="5" branch="false" />
+                <line number="40" hits="5" branch="false" />
+                <line number="41" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobResponse" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="52" hits="8" branch="false" />
+                <line number="53" hits="8" branch="true" condition-coverage="100% (2/2)" />
+                <line number="54" hits="4" branch="false" />
+                <line number="55" hits="4" branch="false" />
+                <line number="57" hits="4" branch="false" />
+                <line number="58" hits="8" branch="false" />
+              </lines>
+            </method>
+            <method name="GetLogResponse" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="69" hits="9" branch="false" />
+                <line number="70" hits="9" branch="true" condition-coverage="100% (2/2)" />
+                <line number="71" hits="5" branch="false" />
+                <line number="72" hits="5" branch="false" />
+                <line number="74" hits="4" branch="false" />
+                <line number="75" hits="9" branch="false" />
+              </lines>
+            </method>
+            <method name="DetermineJobSuccess" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="88" hits="6" branch="false" />
+                <line number="89" hits="6" branch="false" />
+                <line number="90" hits="6" branch="false" />
+                <line number="91" hits="6" branch="true" condition-coverage="100% (2/2)" />
+                <line number="93" hits="6" branch="true" condition-coverage="100% (2/2)" />
+                <line number="94" hits="1" branch="false" />
+                <line number="95" hits="1" branch="false" />
+                <line number="98" hits="5" branch="false" />
+                <line number="99" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name="StoreResponseData" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="108" hits="7" branch="false" />
+                <line number="109" hits="7" branch="false" />
+                <line number="112" hits="7" branch="false" />
+                <line number="115" hits="7" branch="false" />
+                <line number="118" hits="7" branch="false" />
+                <line number="119" hits="7" branch="false" />
+              </lines>
+            </method>
+            <method name="ErrorCheckCustomerTransactions" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="130" hits="1" branch="false" />
+                <line number="132" hits="1" branch="false" />
+                <line number="133" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".cctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="28" hits="6" branch="false" />
+            <line number="30" hits="6" branch="false" />
+            <line number="33" hits="6" branch="true" condition-coverage="100% (2/2)" />
+            <line number="34" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="38" hits="5" branch="false" />
+            <line number="40" hits="5" branch="false" />
+            <line number="41" hits="6" branch="false" />
+            <line number="52" hits="8" branch="false" />
+            <line number="53" hits="8" branch="true" condition-coverage="100% (2/2)" />
+            <line number="54" hits="4" branch="false" />
+            <line number="55" hits="4" branch="false" />
+            <line number="57" hits="4" branch="false" />
+            <line number="58" hits="8" branch="false" />
+            <line number="69" hits="9" branch="false" />
+            <line number="70" hits="9" branch="true" condition-coverage="100% (2/2)" />
+            <line number="71" hits="5" branch="false" />
+            <line number="72" hits="5" branch="false" />
+            <line number="74" hits="4" branch="false" />
+            <line number="75" hits="9" branch="false" />
+            <line number="88" hits="6" branch="false" />
+            <line number="89" hits="6" branch="false" />
+            <line number="90" hits="6" branch="false" />
+            <line number="91" hits="6" branch="true" condition-coverage="100% (2/2)" />
+            <line number="93" hits="6" branch="true" condition-coverage="100% (2/2)" />
+            <line number="94" hits="1" branch="false" />
+            <line number="95" hits="1" branch="false" />
+            <line number="98" hits="5" branch="false" />
+            <line number="99" hits="6" branch="false" />
+            <line number="108" hits="7" branch="false" />
+            <line number="109" hits="7" branch="false" />
+            <line number="112" hits="7" branch="false" />
+            <line number="115" hits="7" branch="false" />
+            <line number="118" hits="7" branch="false" />
+            <line number="119" hits="7" branch="false" />
+            <line number="130" hits="1" branch="false" />
+            <line number="132" hits="1" branch="false" />
+            <line number="133" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="Program" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi\Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;Main&gt;$" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="OhpenApi.Contracts" line-rate="1" branch-rate="1" complexity="4">
+      <classes>
+        <class name="OhpenApi.Contracts.Requests.StartJobRequest" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Contracts\Requests\StartJobRequest.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_JobType" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="10" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="10" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Contracts.Responses.ItemLog" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Contracts\Responses\ItemLog.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_ItemId" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="36" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="36" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Contracts.Responses.JobLogResponse" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Contracts\Responses\JobLogResponse.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_JobId" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="31" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="31" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Contracts.Responses.StartJobResponse" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Contracts\Responses\StartJobResponse.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="34" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="34" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="OhpenApi.Entities" line-rate="0.62962962962963" branch-rate="1" complexity="12">
+      <classes>
+        <class name="OhpenApi.Entities.Models.CustomerTransactionModel" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Entities\Models\CustomerTransactionModel.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="18" branch="false" />
+              </lines>
+            </method>
+            <method name="get_AccountId" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="20" branch="false" />
+              </lines>
+            </method>
+            <method name="get_DestinationAccountId" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="20" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Amount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="10" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="12" branch="false" />
+                <line number="14" hits="12" branch="false" />
+                <line number="15" hits="12" branch="false" />
+                <line number="16" hits="12" branch="false" />
+                <line number="17" hits="12" branch="false" />
+                <line number="18" hits="12" branch="false" />
+                <line number="20" hits="12" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="18" branch="false" />
+            <line number="7" hits="20" branch="false" />
+            <line number="9" hits="20" branch="false" />
+            <line number="11" hits="10" branch="false" />
+            <line number="13" hits="12" branch="false" />
+            <line number="14" hits="12" branch="false" />
+            <line number="15" hits="12" branch="false" />
+            <line number="16" hits="12" branch="false" />
+            <line number="17" hits="12" branch="false" />
+            <line number="18" hits="12" branch="false" />
+            <line number="20" hits="12" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Entities.Models.ItemLogModel" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Entities\Models\ItemLogModel.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_ItemId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Success" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_description" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="0" branch="false" />
+            <line number="6" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Entities.Models.JobModel" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Entities\Models\JobModel.cs" line-rate="0.857142857142857" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_JobType" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_CustomerTransactionModels" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="6" branch="false" />
+                <line number="12" hits="6" branch="false" />
+                <line number="13" hits="6" branch="false" />
+                <line number="14" hits="6" branch="false" />
+                <line number="15" hits="6" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false" />
+            <line number="9" hits="6" branch="false" />
+            <line number="11" hits="6" branch="false" />
+            <line number="12" hits="6" branch="false" />
+            <line number="13" hits="6" branch="false" />
+            <line number="14" hits="6" branch="false" />
+            <line number="15" hits="6" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="OhpenApi.Tests" line-rate="0.993589743589744" branch-rate="1" complexity="33">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\Jack.Boston\.nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Tests.BaseJobServiceTests" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Tests\BaseJobServiceTests.cs" line-rate="1" branch-rate="1" complexity="10">
+          <methods>
+            <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="16" branch="false" />
+                <line number="28" hits="16" branch="false" />
+                <line number="29" hits="16" branch="false" />
+                <line number="30" hits="16" branch="false" />
+                <line number="32" hits="16" branch="false" />
+              </lines>
+            </method>
+            <method name="TearDown" signature="()" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="36" hits="16" branch="false" />
+                <line number="37" hits="16" branch="true" condition-coverage="100% (2/2)" />
+                <line number="38" hits="7" branch="false" />
+                <line number="39" hits="7" branch="false" />
+                <line number="40" hits="7" branch="false" />
+                <line number="42" hits="16" branch="true" condition-coverage="100% (2/2)" />
+                <line number="43" hits="7" branch="false" />
+                <line number="44" hits="7" branch="false" />
+                <line number="45" hits="7" branch="false" />
+                <line number="46" hits="16" branch="false" />
+                <line number="48" hits="16" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobResponseReturnsJobResponse" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="56" hits="3" branch="false" />
+                <line number="58" hits="3" branch="false" />
+                <line number="61" hits="3" branch="false" />
+                <line number="64" hits="3" branch="false" />
+                <line number="65" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobResponseReturnsError" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="73" hits="3" branch="false" />
+                <line number="75" hits="3" branch="false" />
+                <line number="78" hits="3" branch="false" />
+                <line number="79" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobLogseReturnsLogResponse" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="87" hits="3" branch="false" />
+                <line number="89" hits="3" branch="false" />
+                <line number="92" hits="3" branch="false" />
+                <line number="95" hits="3" branch="false" />
+                <line number="96" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobLogseReturnsError" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="104" hits="3" branch="false" />
+                <line number="106" hits="3" branch="false" />
+                <line number="109" hits="3" branch="false" />
+                <line number="110" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="6" branch="false" />
+                <line number="21" hits="3" branch="false" />
+                <line number="23" hits="3" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="20" hits="6" branch="false" />
+            <line number="21" hits="3" branch="false" />
+            <line number="23" hits="3" branch="false" />
+            <line number="27" hits="16" branch="false" />
+            <line number="28" hits="16" branch="false" />
+            <line number="29" hits="16" branch="false" />
+            <line number="30" hits="16" branch="false" />
+            <line number="32" hits="16" branch="false" />
+            <line number="36" hits="16" branch="false" />
+            <line number="37" hits="16" branch="true" condition-coverage="100% (2/2)" />
+            <line number="38" hits="7" branch="false" />
+            <line number="39" hits="7" branch="false" />
+            <line number="40" hits="7" branch="false" />
+            <line number="42" hits="16" branch="true" condition-coverage="100% (2/2)" />
+            <line number="43" hits="7" branch="false" />
+            <line number="44" hits="7" branch="false" />
+            <line number="45" hits="7" branch="false" />
+            <line number="46" hits="16" branch="false" />
+            <line number="48" hits="16" branch="false" />
+            <line number="56" hits="3" branch="false" />
+            <line number="58" hits="3" branch="false" />
+            <line number="61" hits="3" branch="false" />
+            <line number="64" hits="3" branch="false" />
+            <line number="65" hits="3" branch="false" />
+            <line number="73" hits="3" branch="false" />
+            <line number="75" hits="3" branch="false" />
+            <line number="78" hits="3" branch="false" />
+            <line number="79" hits="3" branch="false" />
+            <line number="87" hits="3" branch="false" />
+            <line number="89" hits="3" branch="false" />
+            <line number="92" hits="3" branch="false" />
+            <line number="95" hits="3" branch="false" />
+            <line number="96" hits="3" branch="false" />
+            <line number="104" hits="3" branch="false" />
+            <line number="106" hits="3" branch="false" />
+            <line number="109" hits="3" branch="false" />
+            <line number="110" hits="3" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Tests.BatchJobServiceTests" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Tests\BatchJobServiceTests.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="6" branch="false" />
+                <line number="21" hits="6" branch="false" />
+                <line number="23" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name="TearDown" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="6" branch="false" />
+                <line number="28" hits="6" branch="false" />
+                <line number="30" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name="ProcessCustomerTransactionsBatchJobCompletesWithNoErrors" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="38" hits="1" branch="false" />
+                <line number="40" hits="1" branch="false" />
+                <line number="42" hits="1" branch="false" />
+                <line number="44" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+                <line number="50" hits="1" branch="false" />
+                <line number="53" hits="1" branch="false" />
+                <line number="55" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ProcessCustomerTransactionsBatchWithErrors" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="63" hits="1" branch="false" />
+                <line number="66" hits="1" branch="false" />
+                <line number="69" hits="1" branch="false" />
+                <line number="71" hits="1" branch="false" />
+                <line number="74" hits="1" branch="false" />
+                <line number="76" hits="1" branch="false" />
+                <line number="79" hits="1" branch="false" />
+                <line number="82" hits="1" branch="false" />
+                <line number="84" hits="1" branch="false" />
+                <line number="85" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="20" hits="6" branch="false" />
+            <line number="21" hits="6" branch="false" />
+            <line number="23" hits="6" branch="false" />
+            <line number="27" hits="6" branch="false" />
+            <line number="28" hits="6" branch="false" />
+            <line number="30" hits="6" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="40" hits="1" branch="false" />
+            <line number="42" hits="1" branch="false" />
+            <line number="44" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="50" hits="1" branch="false" />
+            <line number="53" hits="1" branch="false" />
+            <line number="55" hits="1" branch="false" />
+            <line number="63" hits="1" branch="false" />
+            <line number="66" hits="1" branch="false" />
+            <line number="69" hits="1" branch="false" />
+            <line number="71" hits="1" branch="false" />
+            <line number="74" hits="1" branch="false" />
+            <line number="76" hits="1" branch="false" />
+            <line number="79" hits="1" branch="false" />
+            <line number="82" hits="1" branch="false" />
+            <line number="84" hits="1" branch="false" />
+            <line number="85" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Tests.BulkJobServiceTests" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Tests\BulkJobServiceTests.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="6" branch="false" />
+                <line number="19" hits="6" branch="false" />
+                <line number="21" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name="TearDown" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="6" branch="false" />
+                <line number="26" hits="6" branch="false" />
+                <line number="28" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name="ProcessCustomerTransactionsBulkJobCompletesWithNoErrors" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+                <line number="39" hits="1" branch="false" />
+                <line number="41" hits="1" branch="false" />
+                <line number="44" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+                <line number="50" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ProcessCustomerTransactionsBulkCompletesWithErrors" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="60" hits="1" branch="false" />
+                <line number="62" hits="1" branch="false" />
+                <line number="65" hits="1" branch="false" />
+                <line number="67" hits="1" branch="false" />
+                <line number="70" hits="1" branch="false" />
+                <line number="73" hits="1" branch="false" />
+                <line number="75" hits="1" branch="false" />
+                <line number="78" hits="1" branch="false" />
+                <line number="79" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="6" branch="false" />
+            <line number="19" hits="6" branch="false" />
+            <line number="21" hits="6" branch="false" />
+            <line number="25" hits="6" branch="false" />
+            <line number="26" hits="6" branch="false" />
+            <line number="28" hits="6" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="39" hits="1" branch="false" />
+            <line number="41" hits="1" branch="false" />
+            <line number="44" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="50" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="60" hits="1" branch="false" />
+            <line number="62" hits="1" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="67" hits="1" branch="false" />
+            <line number="70" hits="1" branch="false" />
+            <line number="73" hits="1" branch="false" />
+            <line number="75" hits="1" branch="false" />
+            <line number="78" hits="1" branch="false" />
+            <line number="79" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Tests.JobControllerTests" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Tests\JobControllerTests.cs" line-rate="1" branch-rate="1" complexity="9">
+          <methods>
+            <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="6" branch="false" />
+                <line number="33" hits="6" branch="false" />
+                <line number="34" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name="TearDown" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="38" hits="6" branch="false" />
+                <line number="39" hits="6" branch="false" />
+                <line number="40" hits="6" branch="false" />
+              </lines>
+            </method>
+            <method name="PostTransactionsCorrectlyPostsData" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="48" hits="1" branch="false" />
+                <line number="49" hits="1" branch="false" />
+                <line number="50" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+                <line number="54" hits="1" branch="false" />
+                <line number="56" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="PostTransactionsInCorrectlyPostsData" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="64" hits="1" branch="false" />
+                <line number="65" hits="1" branch="false" />
+                <line number="66" hits="1" branch="false" />
+                <line number="68" hits="1" branch="false" />
+                <line number="70" hits="1" branch="false" />
+                <line number="72" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobLogsSuccessfullyRetrieves" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="80" hits="1" branch="false" />
+                <line number="81" hits="1" branch="false" />
+                <line number="82" hits="1" branch="false" />
+                <line number="84" hits="1" branch="false" />
+                <line number="86" hits="1" branch="false" />
+                <line number="88" hits="1" branch="false" />
+                <line number="90" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobLogsUnsuccessfullyRetrieves" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="98" hits="1" branch="false" />
+                <line number="99" hits="1" branch="false" />
+                <line number="101" hits="1" branch="false" />
+                <line number="104" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobSuccessfullyRetrieves" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="112" hits="1" branch="false" />
+                <line number="113" hits="1" branch="false" />
+                <line number="114" hits="1" branch="false" />
+                <line number="116" hits="1" branch="false" />
+                <line number="118" hits="1" branch="false" />
+                <line number="120" hits="1" branch="false" />
+                <line number="122" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="GetJobUnsuccessfullyRetrieves" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="130" hits="1" branch="false" />
+                <line number="131" hits="1" branch="false" />
+                <line number="133" hits="1" branch="false" />
+                <line number="135" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="24" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="32" hits="6" branch="false" />
+            <line number="33" hits="6" branch="false" />
+            <line number="34" hits="6" branch="false" />
+            <line number="38" hits="6" branch="false" />
+            <line number="39" hits="6" branch="false" />
+            <line number="40" hits="6" branch="false" />
+            <line number="48" hits="1" branch="false" />
+            <line number="49" hits="1" branch="false" />
+            <line number="50" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="54" hits="1" branch="false" />
+            <line number="56" hits="1" branch="false" />
+            <line number="64" hits="1" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="66" hits="1" branch="false" />
+            <line number="68" hits="1" branch="false" />
+            <line number="70" hits="1" branch="false" />
+            <line number="72" hits="1" branch="false" />
+            <line number="80" hits="1" branch="false" />
+            <line number="81" hits="1" branch="false" />
+            <line number="82" hits="1" branch="false" />
+            <line number="84" hits="1" branch="false" />
+            <line number="86" hits="1" branch="false" />
+            <line number="88" hits="1" branch="false" />
+            <line number="90" hits="1" branch="false" />
+            <line number="98" hits="1" branch="false" />
+            <line number="99" hits="1" branch="false" />
+            <line number="101" hits="1" branch="false" />
+            <line number="104" hits="1" branch="false" />
+            <line number="112" hits="1" branch="false" />
+            <line number="113" hits="1" branch="false" />
+            <line number="114" hits="1" branch="false" />
+            <line number="116" hits="1" branch="false" />
+            <line number="118" hits="1" branch="false" />
+            <line number="120" hits="1" branch="false" />
+            <line number="122" hits="1" branch="false" />
+            <line number="130" hits="1" branch="false" />
+            <line number="131" hits="1" branch="false" />
+            <line number="133" hits="1" branch="false" />
+            <line number="135" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="OhpenApi.Tests.JobServiceHelperMethodTests" filename="C:\Users\Jack.Boston\source\repos\OhpenApi\OhpenApi.Tests\JobServiceHelperMethodTests.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name="AddErrorDescriptionShouldAddNoErrorDescriptions" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="28" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+                <line number="35" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="AddErrorDescriptionShouldAddCorrectErrorDescriptions" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="43" hits="1" branch="false" />
+                <line number="45" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+                <line number="50" hits="1" branch="false" />
+                <line number="53" hits="1" branch="false" />
+                <line number="54" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ServiceSwitchReturnsBulkJob" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="61" hits="1" branch="false" />
+                <line number="63" hits="1" branch="false" />
+                <line number="66" hits="1" branch="false" />
+                <line number="69" hits="1" branch="false" />
+                <line number="70" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ServiceSwitchReturnsBatchJob" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="77" hits="1" branch="false" />
+                <line number="79" hits="1" branch="false" />
+                <line number="82" hits="1" branch="false" />
+                <line number="85" hits="1" branch="false" />
+                <line number="86" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ServiceSwitchReturnsBaseJob" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="93" hits="1" branch="false" />
+                <line number="95" hits="1" branch="false" />
+                <line number="98" hits="1" branch="false" />
+                <line number="101" hits="1" branch="false" />
+                <line number="102" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="24" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="43" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="50" hits="1" branch="false" />
+            <line number="53" hits="1" branch="false" />
+            <line number="54" hits="1" branch="false" />
+            <line number="61" hits="1" branch="false" />
+            <line number="63" hits="1" branch="false" />
+            <line number="66" hits="1" branch="false" />
+            <line number="69" hits="1" branch="false" />
+            <line number="70" hits="1" branch="false" />
+            <line number="77" hits="1" branch="false" />
+            <line number="79" hits="1" branch="false" />
+            <line number="82" hits="1" branch="false" />
+            <line number="85" hits="1" branch="false" />
+            <line number="86" hits="1" branch="false" />
+            <line number="93" hits="1" branch="false" />
+            <line number="95" hits="1" branch="false" />
+            <line number="98" hits="1" branch="false" />
+            <line number="101" hits="1" branch="false" />
+            <line number="102" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

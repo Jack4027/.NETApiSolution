@@ -1,0 +1,114 @@
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.csproj.AssemblyReference.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.AssemblyInfoInputs.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.AssemblyInfo.cs
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.csproj.CoreCompileInputs.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/appsettings.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/OhpenApi.staticwebassets.runtime.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/OhpenApi.exe
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/OhpenApi.deps.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/OhpenApi.runtimeconfig.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/OhpenApi.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/OhpenApi.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.OhpenApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.build.OhpenApi.props
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.OhpenApi.props
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.OhpenApi.props
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/scopedcss/bundle/OhpenApi.styles.css
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/refint/OhpenApi.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.genruntimeconfig.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/ref/OhpenApi.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/obj/Debug/net6.0/OhpenApi.csproj.CopyComplete
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/ErrorOr.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/OhpenApi.Entities.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/OhpenApi.Entities.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/OhpenApi.Contracts.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi/bin/Debug/net6.0/OhpenApi.Contracts.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/appsettings.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/OhpenApi.staticwebassets.runtime.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/OhpenApi
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/OhpenApi.deps.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/OhpenApi.runtimeconfig.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/OhpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/OhpenApi.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/ErrorOr.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/OhpenApi.Contracts.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/bin/Debug/net6.0/OhpenApi.Entities.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.csproj.AssemblyReference.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.AssemblyInfoInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.AssemblyInfo.cs
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.csproj.CoreCompileInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.OhpenApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.build.OhpenApi.props
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.OhpenApi.props
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.OhpenApi.props
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/scopedcss/bundle/OhpenApi.styles.css
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.csproj.CopyComplete
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/refint/OhpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/OhpenApi.genruntimeconfig.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi/obj/Debug/net6.0/ref/OhpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/appsettings.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/OhpenApi.staticwebassets.runtime.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/OhpenApi
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/OhpenApi.deps.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/OhpenApi.runtimeconfig.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/OhpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/OhpenApi.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/ErrorOr.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/OhpenApi.Contracts.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/bin/Debug/net6.0/OhpenApi.Entities.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.csproj.AssemblyReference.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.AssemblyInfoInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.AssemblyInfo.cs
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.csproj.CoreCompileInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.OhpenApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.build.OhpenApi.props
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.OhpenApi.props
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.OhpenApi.props
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/scopedcss/bundle/OhpenApi.styles.css
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.csproj.CopyComplete
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/refint/OhpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/OhpenApi.genruntimeconfig.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi/obj/Debug/net6.0/ref/OhpenApi.dll

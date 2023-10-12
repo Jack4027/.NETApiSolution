@@ -1,0 +1,346 @@
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/nunit.engine.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/nunit.engine.api.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/nunit.engine.core.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/testcentric.engine.metadata.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.deps.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.csproj.AssemblyReference.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.AssemblyInfoInputs.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.AssemblyInfo.cs
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.csproj.CoreCompileInputs.cache
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.csproj.CopyComplete
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/refint/OhpenApi.Tests.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/ref/OhpenApi.Tests.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.deps.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.runtimeconfig.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/appsettings.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.staticwebassets.runtime.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.exe
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Contracts.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Entities.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Contracts.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Entities.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.pdb
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/testhost.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/testhost.exe
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.runtimeconfig.json
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ErrorOr.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/nunit.framework.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/Jack.Boston/source/repos/OhpenApi/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.genruntimeconfig.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/appsettings.Development.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/appsettings.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/nunit.engine.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/nunit.engine.api.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/nunit.engine.core.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/testcentric.engine.metadata.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.deps.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.runtimeconfig.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.staticwebassets.runtime.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.deps.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.runtimeconfig.json
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ErrorOr.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/testhost.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/nunit.framework.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Contracts.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Entities.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.csproj.AssemblyReference.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.AssemblyInfoInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.AssemblyInfo.cs
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.csproj.CoreCompileInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.csproj.CopyComplete
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/refint/OhpenApi.Tests.dll
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.pdb
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.genruntimeconfig.cache
+/Users/JackBoston_1/Downloads/OhpenApi 2/OhpenApi.Tests/obj/Debug/net6.0/ref/OhpenApi.Tests.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/appsettings.Development.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/appsettings.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/nunit.engine.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/nunit.engine.api.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/nunit.engine.core.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/testcentric.engine.metadata.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.deps.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.runtimeconfig.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.staticwebassets.runtime.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.deps.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.runtimeconfig.json
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Tests.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ErrorOr.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/testhost.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/nunit.framework.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Contracts.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Entities.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Contracts.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.Entities.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/bin/Debug/net6.0/OhpenApi.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.csproj.AssemblyReference.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.AssemblyInfoInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.AssemblyInfo.cs
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.csproj.CoreCompileInputs.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.csproj.CopyComplete
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/refint/OhpenApi.Tests.dll
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.pdb
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/OhpenApi.Tests.genruntimeconfig.cache
+/Users/JackBoston_1/Downloads/OhpenApi_Final/OhpenApi.Tests/obj/Debug/net6.0/ref/OhpenApi.Tests.dll
